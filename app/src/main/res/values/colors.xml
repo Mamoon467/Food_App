@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundopacity">#AB363535</color>
+    <color name="startcolorgradient">#7A620D</color>
+    <color name="endcolorgradient">#F0E8A564</color>
+    <color name="fbcolor">#3b5998</color>
+    <color name="tintlogocolor">#C3463B</color>
+    <color name="googlecolor">#AC7A4A</color>
+</resources>
